@@ -1,3 +1,3 @@
 const DEVELOPMENT_URL = "http://localhost:5420";
-const PRODUCTION_URL = ""; //got from heroku
-exports.API_URL = DEVELOPMENT_URL;
+const PRODUCTION_URL = "https://zomato-type-website-backend.herokuapp.com/"; //got from heroku
+exports.API_URL = PRODUCTION_URL;
