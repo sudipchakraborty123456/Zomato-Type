@@ -31,7 +31,7 @@ class Home extends Component {
             .catch(error => {
                 console.log(error);
             });
-        axios.get(`${API_URL}/getMealType`).then(result => {
+        axios.get(`${API_URL}getMealType`).then(result => {
            // console.log(result)
             this.setState({mealtypes : result.data.mealtype});
         }).catch(error=>{console.log(error);})
