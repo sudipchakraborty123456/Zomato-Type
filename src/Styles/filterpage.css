@@ -1,0 +1,203 @@
+body{
+    width: 1366px;
+    height: 973px;
+    padding: 0 0 88px;
+    background-color: #fbfbfb;
+    margin: 0px;
+}
+
+.heading{
+    height: 51px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 20px;
+    /* margin-bottom: 20px; */
+    margin-left: 110px;
+}
+.filterSection{
+    width: 260px;
+    height: 682px;
+    margin: 27px 45px 8px 113px;
+    padding: 17px 25px 31px 26px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  
+}
+.sectionHeading{
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 10px 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.sectionSubHeading{
+    width: 106px;
+    height: 20px;
+    margin: 10px 102px 11px 1px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.locationSelection{
+    width: 208px;
+    height: 35px;
+    margin: 11px 0 22px 1px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid 1px #8c96ab;
+ 
+}
+.cuisineSelection{
+    width: 135px;
+    height: 20px;
+    margin: 15px 94px 12px 11px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+/* .resultSection{
+    /* width: 794px; 
+  height: 291px;
+  /* margin: 27px 154px 34px 45px; 
+  padding: 25px 32.6px 20px 35px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+} */
+.image{
+    width: 120px;
+    height: 120px;
+    border-radius: 25px;
+}
+
+.resultHeader{
+    /* width: 298px;
+    height: 43px;
+    margin: 14px 267.4px 5px 41px; */
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.resultSubHeader{
+    /* width: 39px;
+    height: 23px;
+    margin: 5px 521.4px 5px 46px; */
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+.resultDescription{
+    /* width: 365px;
+    height: 23px;
+    margin: 5px 195.4px 38px 46px; */
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+.resultdetils{
+    /* width: 140px;
+    height: 118px;
+    margin: 229px 52px 5px 85px; */
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+.resultdetilsOptions{
+    /* width: 140px;
+    height: 118px;
+    margin: 229px 52px 5px 85px; */
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+.paginationOptions{
+    text-align: center;
+}
+.paginationButton{
+    /* width: 36px;
+    height: 36px;
+    margin: 0 13px 0 0; */
+    padding: 10.2px 13.5px 9.5px 14.3px;
+    opacity: 0.4;
+    border-radius: 7px;
+    border: solid 1px #8c96ab;
+    background-color: #ffffff;
+}
+
+.paginationButton:hover {
+    background-color: #8c96ab;
+    color: white;
+    cursor: pointer;
+}
+
+.resltboxtext{
+    display: inline-block;
+}
+
+.resultBox{
+    height: 291px;
+    padding: 20px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.resultSection{
+    align-items: top;
+}

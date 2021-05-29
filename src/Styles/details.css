@@ -1,0 +1,169 @@
+.images img{
+    max-height: 352px;
+    max-width: 100%;
+    
+}
+
+body{
+    /* background-color: aquamarine; */
+    width: 100%;
+}
+
+.resName{
+        background-color: #fbfbfb;
+        width: 100%;
+        height: 43px;
+        margin: 20px 0px;
+        font-family: Poppins;
+        font-size: 30px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+      }
+
+/* .myTabs{
+       
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    border: none;
+    border-bottom: solid red;
+} */
+
+.react-tabs__tab--selected{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    border: none;
+    border-bottom: solid 2px red;
+}
+.react-tabs__tab{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.header-logo{
+    width: 42px;
+    height: 42px;
+    background-color: #ffffff;
+    line-height: 42px;
+    color: #eb2929;
+    border-radius:50%;
+    display: inline-block;
+    font-size:28px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.menuItem{
+    text-decoration: none;
+    margin-bottom: 15px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.menu{
+    padding:0;
+    list-style: none;
+}
+.closeBtn{
+    position: absolute;
+    right: 15px;
+    top:15px;
+}
+
+.heading2{
+    font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.subHading{
+    font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+
+.inputField{
+    width: 546px;
+    height: 50px;
+    /* margin: 9px 15px 28px 5px; */
+    padding: 14px 392px 13px 22px;
+    border-radius: 2px;
+    border: solid 1px #cacfd8;
+}
+
+.about {
+    height: 31px;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin: 25px 0;
+}
+.cuisine {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.cuisines {
+    height: 30px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}

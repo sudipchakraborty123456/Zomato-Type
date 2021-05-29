@@ -1,0 +1,140 @@
+.homeImage{
+    width: 100%;
+    height: 450px;
+    margin: auto;
+}
+.imageText {
+    position: absolute;
+    top: 100px;
+    text-align: center;
+    width: 100%;
+}
+body{
+width: 100%;
+}
+.logo {
+    width: 99px;
+    height: 99px;
+    font-family: Poppins;
+    font-size: 66px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    color: #eb2929;
+    border-radius: 50%;
+    background: white;
+    text-align: center;
+    margin-left: 41%;
+    left:45px;
+    top: 78px;
+}
+.headerText {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    text-align: center;
+}
+.locationOption{
+    position: absolute;
+    top: 320px;
+    width: 100%;
+    margin: auto;
+}
+.locationDropDown{
+    width: 245px;
+    height: 40px;
+    background-color: white;
+    padding-left: 15px;
+    border: none;
+    margin-bottom: 15px;
+}
+.restaurantSearch{
+    width: 477px;
+    height: 40px;
+    background-color: white;
+    padding-left: 15px;
+    border: none;
+    margin-left: 15px;
+}
+.r{
+   /* text-align: left;*/
+}
+.location-wrapper{
+    /*text-align: right;*/
+}
+.quickSearchHeader{
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #190f60;
+    /*position: absolute;*/
+    top: 43%;
+}
+.quickSearchSubHeader{
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    /* margin: 7px 59px 33px 113px; */
+    margin-top: 15px;
+}
+.quickSearchOptions{
+    margin: 30px;
+}
+.quickSearchBox{
+    height: 160px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    position: relative;
+    margin-bottom: 20px;
+}
+.quicksearchDec{
+    position: absolute;
+    top: 20px;
+    left: 190px;
+    width: 120px;
+}
+.quickSearchDec > h3{
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #190f60;
+}
+.quicksearchDec > p{
+    height: 62px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
